@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Rahul Sharma",
+    "age": 25,
+
+    "rating": 4
+  },
+  {
+    "name": "Priya Verma",
+    "age": 30,
+
+    "rating": "5"
+  },
+  {
+    "name": "Rahul Sharma",
+    "age": 22,
+
+    "rating": 3
+  },
+  {
+    "name": "Anil Gupta",
+
+    "rating": "2"
+  },
+  {
+    "name": "Sneha Patel",
+    "age": 28,
+
+    "rating": 5
+  },
+  {
+    "name": "Priya Verma",
+    "age": 35,
+
+    "rating": "4"
+  },
+  {
+    "name": "Vikram Singh",
+
+    "rating": 1
+  },
+  {
+    "name": "Neha Joshi",
+    "age": 27,
+
+    "rating": "3"
+  },
+  {
+    "name": "Amit Kumar",
+    "age": 32,
+
+    "rating": 2
+  },
+  {
+    "name": "Rahul Sharma",
+    "age": 25,
+    "rating": "1"
+  }
+]
